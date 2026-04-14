@@ -6,7 +6,7 @@
  */
 window.TABULAKIT_CONFIG = {
   // Site identity
-  name: "RC-docs-site",
+  name: "LIMS",
   description: "Research Corporation Fermentation Documentation",
   logo: "",  // Path to logo image (optional, shown in sidebar)
 

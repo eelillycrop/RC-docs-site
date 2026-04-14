@@ -1,37 +1,36 @@
-# RC documentation
+# RC Fermentation LIMS
 
-**Organization:** ETSU Research Corporation
+**ETSU Research Corporation** — 1 L Bioreactor Documentation
 
-## Quick Status
+## Active Runs
 
-| Area | Status | Last Updated |
-|------|--------|-------------|
-| Personnel | Pending | — |
-| Timeline | Pending | — |
-| Logistics | Pending | — |
-| Communications | Pending | — |
-| Risk | Pending | — |
+| Run ID | Strain | Start Date | Day | Status |
+|--------|--------|-----------|-----|--------|
+| — | — | — | — | No active runs |
 
-## Key Dates
+## Recent Runs
 
-| Event | Date | Notes |
-|-------|------|-------|
-| Planning Start | TBD | |
-| Rehearsal | TBD | |
-| Execution | TBD | |
-| AAR | TBD | |
+| Run ID | Strain | Media | Start | End | Outcome |
+|--------|--------|-------|-------|-----|---------|
+| — | — | — | — | — | — |
+
+See the full [Run Log](runs.md) for all historical runs.
 
 ## Quick Links
 
-- [Timeline](timeline.md) — Key dates and schedule
-- [Roster](roster.md) — Personnel and roles
-- [Comms Log](comms.md) — Communications record
-- [Checklist](checklist.md) — Planning questions and tracking
+- [Start a New Run](run-template.md) — copy this page and fill in your details
+- [Strain Registry](strains.md)
+- [Media Formulations](media.md)
+- [Protocols](protocols.md)
 
-## Using This Site
+## Measured Parameters
 
-This site is your central reference for **RC documentation**. Use it to track planning, coordinate with your team, and maintain a record of decisions.
-
-**With Claude Code:**
-- `/note` — Add a communication entry (auto-timestamps, offers to update related pages)
-- `/aar` — Log an observation for the After Action Review
+| Parameter | Type | Unit | Method |
+|-----------|------|------|--------|
+| pH | Online | — | In-line probe |
+| Dissolved Oxygen | Online | % saturation | In-line probe |
+| Biomass | Online | pF/cm | Capacitance (in-line) |
+| ORP | Online | mV | In-line probe |
+| pH | Offline | — | Benchtop meter |
+| Optical Density | Offline | OD₆₀₀ | Spectrophotometer |
+| Microscopy | Offline | — | Visual observation |
