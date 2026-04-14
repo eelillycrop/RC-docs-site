@@ -25,7 +25,11 @@
       "Task",
       "Skill(startup)",
       "Skill(orient)",
-      "Skill(colors)"
+      "Skill(colors)",
+      "Skill(note)",
+      "Skill(aar)",
+      "Skill(publish)",
+      "Skill(tabula-update)"
     ]
   }
 }

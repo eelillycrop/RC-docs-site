@@ -21,3 +21,14 @@
  *   Hide the search bar:
  *     .search { display: none; }
  */
+
+/* Ocean color scheme */
+:root {
+  --sidebar-background: #1e293b;
+  --base-background-color: #0f172a;
+  --base-color: #e2e8f0;
+}
+
+/* Standard font size (17px) */
+body { font-size: 17px; }
+.markdown-section { font-size: 17px; }

@@ -112,3 +112,12 @@ npx live-server site --port=<previewPort from .tabulakit/config.json>
 ## Permissions
 
 This repository's `.claude/settings.json` grants broad file access so you can freely edit site content, configuration, and documentation without permission prompts. This is intentional — TabulaKit is a content-focused project where most work is editing markdown and config files.
+
+## User Preferences
+
+This user prefers non-technical language. Avoid git terminology (commit, push, pull, merge, branch, deploy, repository). Instead use:
+- "save" instead of "commit"
+- "publish" instead of "push" or "deploy"
+- "your site's files" instead of "repository"
+- "undo" instead of "revert"
+- "update" instead of "pull"

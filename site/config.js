@@ -6,16 +6,16 @@
  */
 window.TABULAKIT_CONFIG = {
   // Site identity
-  name: "TabulaKit",
-  description: "A TabulaKit documentation site",
+  name: "RC-docs-site",
+  description: "Research Corporation Fermentation Documentation",
   logo: "",  // Path to logo image (optional, shown in sidebar)
 
   // Theme colors (CSS custom property overrides)
   theme: {
-    color: "#e84118",           // Primary accent color (headings)
-    tealColor: "#3bc0cb",       // Secondary accent (links, nav highlights)
+    color: "#3b82f6",           // Primary accent color (headings)
+    tealColor: "#22d3ee",       // Secondary accent (links, nav highlights)
     sidebarWidth: "280px",
-    baseFontSize: "16px"
+    baseFontSize: "17px"
   },
 
   // Docsify options (merged into window.$docsify)
